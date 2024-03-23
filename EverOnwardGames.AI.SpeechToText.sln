@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverOnwardGames.AI.SpeechToText", "EverOnwardGames.AI.SpeechToText\EverOnwardGames.AI.SpeechToText.csproj", "{D9FB3943-389F-43A2-956A-6A9E8F0CE4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverOnwardGames.AI.SpeechToText.Tests", "EverOnwardGames.AI.SpeechToText.Tests\EverOnwardGames.AI.SpeechToText.Tests.csproj", "{78F25679-7A90-41BF-A7F5-9112C5538D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FB3943-389F-43A2-956A-6A9E8F0CE4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FB3943-389F-43A2-956A-6A9E8F0CE4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FB3943-389F-43A2-956A-6A9E8F0CE4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FB3943-389F-43A2-956A-6A9E8F0CE4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F25679-7A90-41BF-A7F5-9112C5538D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F25679-7A90-41BF-A7F5-9112C5538D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F25679-7A90-41BF-A7F5-9112C5538D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F25679-7A90-41BF-A7F5-9112C5538D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF29ED67-ED54-4AE8-8846-1860ED2B0A56}
+	EndGlobalSection
+EndGlobal
